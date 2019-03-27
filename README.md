@@ -17,3 +17,4 @@ Estão incluídos um Script `docker-compose` que inicializa 2 containers, um par
 6. Através da interface gráfica (utilizando o menu ou o botão direito do mouse na árvore), crie um novo banco de dados (*Database*) com o nome `dvdrental`
 7. Através da interface gráfica (utilizando o menu ou o botão direito do mouse na árvore), restaure o dump **dentro do banco de dados recém criado**. Para isso utilize a opção de realizar *Upload* do arquivo `dvdrental.tar` que está disponível na raiz deste diretório.
 8. MÃOS À MASSA!
+9. Para iniciar, listamos no arquivo [desafios.md](desafios.md) algumas questões introdutórias sobre a base de dados de aluguel de DVDs.
